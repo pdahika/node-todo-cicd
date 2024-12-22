@@ -27,7 +27,7 @@ describe( "Test1", () => {
 });
 
 describe("Test2", () => {
-	beforeEach(() => {
+	beforeEach(() => { 
 	console.log( "executes before every test" );
 	});
 	
